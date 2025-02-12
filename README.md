@@ -1,10 +1,5 @@
-title: Chris
-logo:/assets/download.png
+# Take a look at my super, smasking, great portfolio
 
-
-
-
-# super-smashing-great-portfolio
 ## a slightly smaller heading
 ### an even smaller heading
 #### ... and you guessed it
@@ -12,6 +7,7 @@ logo:/assets/download.png
 *Italic text*
 
 **bold**  
+
 is this bold?
 
 **is this bolder?**
