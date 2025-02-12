@@ -1,4 +1,4 @@
-# Take a look at my super, smasking, great portfolio
+# Take a look at my super, smashing, great portfolio
 
 ## a slightly smaller heading
 ### an even smaller heading
