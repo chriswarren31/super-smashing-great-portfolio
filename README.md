@@ -1,7 +1,8 @@
 # super-smashing-great-portfolio
 ## a slightly smaller heading
-### and even smaller heading
-#### you guessed it
+### an even smaller heading
+#### ... and you guessed it
 
 *Italic text*
 
+**bold**  
