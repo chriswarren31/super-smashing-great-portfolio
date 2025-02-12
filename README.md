@@ -1,3 +1,9 @@
+title: Chris
+logo:/assets/download.png
+
+
+
+
 # super-smashing-great-portfolio
 ## a slightly smaller heading
 ### an even smaller heading
