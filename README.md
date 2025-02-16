@@ -1,15 +1,9 @@
 # Take a look at my super, smashing, great portfolio
 
-## Take a look at my super, smashing, great portfolio
-### Take a look at my super, smashing, great portfolio
-#### Take a look at my super, smashing, great portfolio
-##### Take a look at my super, smashing, great portfolio
-###### Take a look at my super, smashing, great portfolio
+## Work Experience
 
-*Italic text*
+## Education
 
-**bold**  
+## Experience
 
-is this bold?
-
-**is this bolder?**
+## Projects
