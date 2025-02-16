@@ -1,9 +1,9 @@
-# Take a look at my super, smashing, great portfolio
+## Take a look at my super, smashing, great portfolio
 
-## Work Experience
+### Work Experience
 
-## Education
+### Education
 
-## Experience
+### Experience
 
-## Projects
+### Projects
