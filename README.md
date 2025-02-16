@@ -1,9 +1,13 @@
-## Take a look at Data Science portfolio
+# Take a look at Data Science portfolio
 
-### Work Experience
+## Work Experience
+I have 10 years experience working with data. It's my favourite thing in the world. I have an immense curiosity on anything data based and XYZ
 
-### Education
+## Education
+I have completed the level 4 Data Analysis apprenticeship and have recently started the level 6 Data Science apprenticeship
 
-### Experience
+## Experience
+I have worked within the Marketing Department of a global process engineering company for 25 years and have XYZ
 
-### Projects
+## Projects
+Examples of the projects that I've completed can be found below. Take a look and find more about how I can help you.
