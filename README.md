@@ -1,7 +1,7 @@
 # Take a look at Data Science portfolio
 
 ## Work Experience
-I have 10 years experience working with data. It's my favourite thing in the world. I have an immense curiosity on anything data based and XYZ
+I have more than 3 years experience working with data. It's my favourite thing in the world. I have an immense curiosity on anything data based and XYZ
 
 ## Education
 I have completed the level 4 Data Analysis apprenticeship and have recently started the level 6 Data Science apprenticeship
