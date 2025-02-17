@@ -1,4 +1,4 @@
-# Take a look at Data Science portfolio
+# Take a look at my amazing Data Science portfolio
 
 ## Work Experience
 I have more than 3 years experience working with data. It's my favourite thing in the world. I have an immense curiosity on anything data based and can't wait to get started on working with you.
