@@ -14,10 +14,16 @@ Examples of the projects that I've completed can be found below. Take a look and
 
 ### Project no. 1
 **Title** A concise and descriptive title that summarises the project
+
 **Introduction** A brief overview of the project and its purpose.
+
 **Dataset** An explanation of the data used and any preprocessing steps taken
+
 **Analysis** A breakdown of the analysis performed with visualisations and explanations
+
 **Modelling** An explanation of the modelling techniques used such as supervised/unsupervised learning and predictive analytics
+
 **Results** An outline of the results and the insights uncovered.
+
 **Conclusion** A summary of the project and its findings
 
