@@ -12,6 +12,9 @@ I have worked within the Marketing Department of a [global process engineering c
 ## Interests
 Amongst my many interests I enjoy gaming (especially Cricket with my son), playing cricket at a very amateurish level and cooking.
 
+## Horizon scanning
+Below is a brief summary in how I stay up-to-date on all things Data Science.
+
 ## Projects
 Examples of the projects that I've completed can be found below. Take a look and find more about how I can help you.
 
