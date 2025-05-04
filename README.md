@@ -40,7 +40,7 @@ Examples of the projects that I've completed can be found below. Take a look and
 
 **Results** The model accurately forecast sales for Japan which is a small market, compared with North America. It struggled with total, global sales, this is becasue of the degree of variability in the data. Overall it performed well and could be used to accurately predict future sales.
 
-**Conclusion** A summary of the project and its findings
+**Conclusion** There is a decline in global video game sales. The North America and PAL regions account for approximately 80% of sales. Japan and Others make up the remaining 20%. Sports, Action and Shooter games generate the most revenue.  Electronic Arts have the largest share of the market by Developer. Activision do so from a publisher viewpoint. The distribution of sales across each of the sales regions are in two groups. North America and PAL have a widespread of sales with many outliers. This indicates if a game does well, then it does very well. Conversely sales in Japan and Others indicates a smaller, more focussed market. I don’t believe the critic scores given to games don’t have too much of a direct impact upon game sales.
 
 **Contact** If you're interested in working together, you can contact me at any time via chriswarren31@email.com
 
