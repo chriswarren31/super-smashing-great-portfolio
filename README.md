@@ -30,12 +30,15 @@ Examples of the projects that I've completed can be found below. Take a look and
 
 **Analysis** Using EDA (Exploratory Data Analysis) revealed that Sports is the highest selling genre, Activsion is the leading Publisher and the North America achieves the highest sales 
 ![Video Game Sales Visualisation](assets/image2.png)  
-*Figure: Global video game sales trends visualised from the dataset.*
+*Figure: Pie chart illustrating North America account for over 50% of video game sales.*
 
 
-**Modelling** An explanation of the modelling techniques used such as supervised/unsupervised learning and predictive analytics
+**Modelling** After checking the data for seasonality, I applied the ARIMA time series model to the data. I did so for the total sales provided in the data set and then did the same for each individual sales region.
+![Video Game Sales Visualisation](assets/image3.png)  
+*Figure: Pie chart illustrating North America account for over 50% of video game sales.*
 
-**Results** An outline of the results and the insights uncovered.
+
+**Results** The model accurately forecast sales for Japan which is a small market, compared with North America. It struggled with total, global sales, this is becasue of the degree of variability in the data. Overall it performed well and could be used to accurately predict future sales.
 
 **Conclusion** A summary of the project and its findings
 
