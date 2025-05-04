@@ -13,7 +13,7 @@ I have worked within the Marketing Department of a [global process engineering c
 Amongst my many interests I enjoy gaming (especially Cricket with my son), playing cricket at a very amateurish level and cooking.
 
 ## Horizon scanning
-Below is a brief summary in how I stay up-to-date on all things Data Science.
+I stay up-to-date on all things Data Science by horizon scanning. This is vital for me as I'm able to identify emerging trends and discover new tools and innovative techniques that are being developed. By being proactive I can ensure that my skills remain relevant and can be applied to any scenario (want to find out more about video game sales?). By monitoring academic papers, subscribing to newsletters and following thought leaders such as Andrew Ng, Hilary Mason and Cassie Kozyrkov I am informed about the latest developments in the field of data science.
 
 ## Projects
 Examples of the projects that I've completed can be found below. Take a look and find more about how I can help you.
