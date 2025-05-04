@@ -21,10 +21,8 @@ Examples of the projects that I've completed can be found below. Take a look and
 ### Project no. 1
 **Title** An analysis of a historical video game data
 
-![Video Game Sales Visualisation](assets/2025_video_games__1_.jpg)
-
-
-**Figure: Global video game sales trends visualised from the dataset.*
+![Video Game Sales Visualisation](assets/2025_video_games_1.jpg)  
+*Figure: Global video game sales trends visualised from the dataset.*
 
 **Introduction** Using Python and a freely available public data, the aim of this project was to identify trends and predict sales.
 
