@@ -28,9 +28,7 @@ Examples of the projects that I've completed can be found below. Take a look and
 
 **Dataset** The dataset contained over 64,000 rows and had twelve columns containing things such as genre and sales. There was a large amount of data that needed rectifying - who hasn't had that problem before?
 
-
-
-**Analysis** A breakdown of the analysis performed with visualisations and explanations
+**Analysis** Using EDA (Exploratory Data Analysis) revealed that Sports is the highest selling genre, Activsion is the leading Publisher and the North America achieves the highest sales 
 
 **Modelling** An explanation of the modelling techniques used such as supervised/unsupervised learning and predictive analytics
 
