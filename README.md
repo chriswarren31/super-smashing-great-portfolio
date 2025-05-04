@@ -18,10 +18,10 @@ Below is a brief summary in how I stay up-to-date on all things Data Science.
 ## Projects
 Examples of the projects that I've completed can be found below. Take a look and find more about how I can help you.
 
-### Project no. 1
-**Title** An analysis of a historical video game data
+### Project no. 1  
+**Title**: An analysis of a historical video game data
 
-![Video Game Sales Visualisation](assets/image1.jpg)
+![Video Game Sales Visualisation](assets/image1.jpg)  
 *Figure: Global video game sales trends visualised from the dataset.*
 
 **Introduction** Using Python and a freely available public data, the aim of this project was to identify trends and predict sales.
