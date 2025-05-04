@@ -32,6 +32,7 @@ Examples of the projects that I've completed can be found below. Take a look and
 ![Video Game Sales Visualisation](assets/image2.png)  
 *Figure: Global video game sales trends visualised from the dataset.*
 
+
 **Modelling** An explanation of the modelling techniques used such as supervised/unsupervised learning and predictive analytics
 
 **Results** An outline of the results and the insights uncovered.
