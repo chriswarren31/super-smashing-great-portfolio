@@ -21,7 +21,7 @@ Examples of the projects that I've completed can be found below. Take a look and
 ### Project no. 1
 **Title** An analysis of a historical video game data
 
-![Video Game Sales Visualisation]([assests/2025_video_games_1.jpg](https://github.com/chriswarren31/super-smashing-great-portfolio/blob/main/assets/2025_video_games__1_.jpg)
+![Video Game Sales Visualisation]([assests/2025_video_games_1.jpg](https://github.com/chriswarren31/super-smashing-great-portfolio/blob/main/assets/2025_video_games__1.jpg)
 
 **Figure: Global video game sales trends visualised from the dataset.*
 
