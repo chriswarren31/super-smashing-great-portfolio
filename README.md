@@ -35,16 +35,13 @@ Using EDA (Exploratory Data Analysis) revealed that Sports is the highest sellin
 ![Video Game Sales Visualisation](assets/image2.png)  
 *Figure: Pie chart illustrating North America account for over 50% of video game sales.*
 
-
 **Modelling** 
 After checking the data for seasonality, I applied the ARIMA time series model to the data. I did so for the total sales provided in the data set and then did the same for each individual sales region.
 ![Video Game Sales Visualisation](assets/image3.png)  
 *Figure: Pie chart illustrating North America account for over 50% of video game sales.*
 
-
 **Results**  
 The model accurately forecast sales for Japan, which is a small market compared with North America. It struggled with total global sales due to the degree of variability in the data. Overall, it performed well and could be used to accurately predict future sales.
-
 
 **Conclusions** 
 There is a decline in global video games sales. The North America and PAL regions account for approximately 80% of sales. Japan and Others make up the rest. Sports, Action and Shooter games generate the most revenue. Based on this analysis I would concentrate on the North American and PAL regions. I would work with publishers and developers that create the most popular games. For more niche (and role-player based) games, Japan may be a better target market. 
