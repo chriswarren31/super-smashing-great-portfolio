@@ -21,6 +21,9 @@ Examples of the projects that I've completed can be found below. Take a look and
 ### Project no. 1
 **Title** An analysis of a historical video game data
 
+![Video Game Sales Visualisation](images/2025_video_games_1.jpg)
+*Figure: Global video game sales trends visualised from the dataset.*
+
 **Introduction** Using Python and a freely available public data, the aim of this project was to identify trends and predict sales.
 
 **Dataset** The dataset contained over 64,000 rows and had twelve columns containing things such as genre and sales. There was a large amount of data that needed rectifying - who hasn't had that problem before?
